@@ -8,7 +8,6 @@ Open-source repository of MorphoPulse, a morphology‑controlled pre‑training 
 - `configs/`: released configs
 - `scripts/`: runnable entry scripts
 - `datasets/`: placeholder directory structure only
-- `docs/`: dataset and usage notes
 
 ## Environment variables
 
@@ -44,8 +43,6 @@ DATASET_NAME=Mesa_ppg_svri bash scripts/run_generation.sh
 No real datasets are included. This repository only provides placeholder directories and README files documenting the expected structure.
 
 ## Checkpoints
-
-No pretrained checkpoints are included. See [docs/checkpoints.md](docs/checkpoints.md) for the expected layout.
 
 # Acknowledge
 We thank the authors of [TimeVQVAE](https://github.com/ML4ITS/TimeVQVAE) and [papagei-foundation-model](https://github.com/Nokia-Bell-Labs/papagei-foundation-model) for their high-quality work.
