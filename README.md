@@ -91,5 +91,5 @@ The exporter preserves the exact filtering used by `harmonize_datasets(dataset_n
 
 Detailed release notes are in `docs/OPEN_SOURCE_RELEASE.md`.
 
-# Acknowledge
+# Acknowledgement
 We thank the authors of [TimeVQVAE](https://github.com/ML4ITS/TimeVQVAE) and [papagei-foundation-model](https://github.com/Nokia-Bell-Labs/papagei-foundation-model) for their high-quality work.
