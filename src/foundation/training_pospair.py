@@ -35,7 +35,7 @@ def _pretrain_meta_csv(*parts):
 def _pretrain_signal_dir(*parts):
     return str(DATA_ROOT.joinpath("pretrain_signals", *parts))
 
-def harmonize_datasets(prefix=".", clean_ipa_only=False, dataset_name="g_3", sample_frac=1.0, random_seed=42):
+def harmonize_datasets(prefix=".", clean_ipa_only=False, dataset_name="g", sample_frac=1.0, random_seed=42):
     """
     Function to combine the pretraining dataset paths
 
