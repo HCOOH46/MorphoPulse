@@ -10,6 +10,8 @@ __pycache__/
 venv/
 env/
 artifacts/checkpoints/**/*.pt
+!artifacts/checkpoints/foundation/MorphoPulse/
+!artifacts/checkpoints/foundation/MorphoPulse/MorphoPulse.pt
 artifacts/checkpoints/**/*.ckpt
 artifacts/outputs/**/*.p
 artifacts/outputs/**/*.csv
@@ -17,4 +19,3 @@ artifacts/outputs/**/*.npy
 artifacts/outputs/**/*.png
 artifacts/outputs/**/*.pdf
 wandb/
-
