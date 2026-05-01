@@ -1,5 +1,5 @@
-# MorphoPulse
-Open-source repository of MorphoPulse, a morphology‑controlled pre‑training framework that densifies sparse regions of the PPG physiological manifold through clinically guided synthetic data generation
+# PPGFounder
+Open-source repository of PPGFounder, a morphology‑controlled pre‑training framework that densifies sparse regions of the PPG physiological manifold through clinically guided synthetic data generation
 
 ## Released Assets
 
@@ -63,7 +63,7 @@ The public synthetic release should be published as one flattened `MorphoPulse_g
 
 Recommended public targets:
 
-- Code and checkpoint: `https://github.com/HCOOH46/MorphoPulse`
+- Code and checkpoint: `https://github.com/HCOOH46/PPGFounder`
 - Synthetic dataset: `https://huggingface.co/datasets/HCOOH46/MorphoPulse-g-synthetic`
 
 ## Checkpoints
